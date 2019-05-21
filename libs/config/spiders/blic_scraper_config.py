@@ -1,0 +1,2 @@
+BLIC_SPIDER_NAME = "blic"
+BLIC_ALLOWED_DOMAINS = ["blic.rs"]

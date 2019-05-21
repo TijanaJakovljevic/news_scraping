@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# temp files at root level
+*.tmp
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+logs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+
+# Scrapy stuff:
+.scrapy
+
+
+# PyBuilder
+target/
+
+
+# pyenv
+.python-version
+
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+# Idea
+.idea/
+.vscode/
+
+# It might happen that supervisor files are available.
+*.pid
+
+# OS X file
+.DS_Store
